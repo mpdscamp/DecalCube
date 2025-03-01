@@ -36,8 +36,8 @@ This enables advanced effects like projecting logos, signs, or other visual elem
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/OpenGL.git
-cd OpenGL
+git@github.com:mpdscamp/DecalCube.git
+cd DecalCube
 
 # Configure the project
 cmake -B build
